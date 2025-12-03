@@ -1,8 +1,14 @@
 <a name="readme-top"></a>
 
-<div align="center">
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Auto%20Fill%20Extension&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Điền%20form%20tự%20động%201%20click%20-%20Tiết%20kiệm%2090%25%20thời%20gian&descAlignY=52&descSize=20)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Auto%20Fill%20Extension&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Điền%20form%20tự%20động%201%20click%20-%20Tiết%20kiệm%2090%25%20thời%20gian&descAlignY=55&descSize=22" width="100%" alt="Auto Fill Extension Header">
+[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-v1.0.0-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore)
+[![License MIT](https://img.shields.io/badge/License-MIT-00D084?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Made in Vietnam](https://img.shields.io/badge/Made%20with%20❤️%20in-Vietnam-FF1744?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/duongthaitan)
+
+[![GitHub Stars](https://img.shields.io/github/stars/duongthaitan/Auto-Fill-Extension?style=social&logo=github)](https://github.com/duongthaitan/Auto-Fill-Extension/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/duongthaitan/Auto-Fill-Extension?style=social&logo=github)](https://github.com/duongthaitan/Auto-Fill-Extension/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/duongthaitan/Auto-Fill-Extension?style=social&logo=github)](https://github.com/duongthaitan/Auto-Fill-Extension/issues)
 
 <p align="center">
   <a href="#-tính-năng"><b>✨ Tính năng</b></a> •
