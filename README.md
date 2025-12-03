@@ -2,11 +2,7 @@
 
 <div align="center">
 
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F72585,7209B7,3A0CA3&height=300&section=header&text=Thumbnail%20AI%20Studio&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20YouTube%20Thumbnail%20Generator%20powered%20by%20Gemini&descAlignY=55&descSize=20)
-
-[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20Vision-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
-[![License MIT](https://img.shields.io/badge/License-MIT-00D084?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Made in Vietnam](https://img.shields.io/badge/Made%20with%20❤️%20in-Vietnam-FF1744?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/your-username)
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F72585,7209B7,3A0CA3&height=320&section=header&text=Thumbnail%20AI%20Studio&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20YouTube%20Thumbnail%20Generator%20powered%20by%20Gemini&descAlignY=55&descSize=20)
 
 <p>
     <a href="https://github.com/your-username/thumbnail-ai/stargazers">
@@ -20,118 +16,106 @@
     </a>
 </p>
 
+[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20Vision-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![License MIT](https://img.shields.io/badge/License-MIT-00D084?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+
 <p align="center">
-  <a href="#-giới-thiệu-introduction">Giới thiệu</a> •
-  <a href="#-tính-năng-độc-quyền-core-features">Tính năng</a> •
-  <a href="#-kho-phong-cách-style-gallery">Style Gallery</a> •
-  <a href="#-công-nghệ-sử-dụng-tech-stack">Tech Stack</a> •
-  <a href="#-cài-đặt--sử-dụng-quick-start">Cài đặt</a> •
-  <a href="#-hướng-dẫn-lấy-api-key">API Key</a>
+  <b>
+      <a href="#-giới-thiệu">Giới thiệu</a> •
+      <a href="#-tính-năng-cốt-lõi">Tính năng</a> •
+      <a href="#-style-gallery">Style Gallery</a> •
+      <a href="#-tech-stack">Tech Stack</a> •
+      <a href="#-cài-đặt">Cài đặt</a> •
+      <a href="#-roadmap">Roadmap</a>
+  </b>
 </p>
 
 </div>
 
 ---
 
-## 🤖 Giới Thiệu (Introduction)
+## 🤖 Giới Thiệu
 
-> **"Quên Photoshop đi. Đây là kỷ nguyên của AI Design."**
+[Image of AI image generation workflow diagram]
 
-Bạn mất hàng giờ để thiết kế một Thumbnail nhưng vẫn không đạt CTR (Click-through rate) mong muốn? **Thumbnail AI Studio** ra đời để giải quyết vấn đề đó. Tích hợp sức mạnh của **Google Gemini Vision**, công cụ này biến ý tưởng text sơ sài thành tác phẩm nghệ thuật triệu views chỉ trong 3 giây.
+> **"Thumbnail không chỉ là ảnh. Nó là lời hứa với người xem."**
 
-**🌟 Điểm nhấn đặc biệt:** Được tối ưu hóa riêng cho Creator Việt Nam 🇻🇳 với khả năng xử lý Typography tiếng Việt vượt trội.
+**Thumbnail AI Studio** giải quyết bài toán "Cạn ý tưởng" của Creator. Bằng cách kết hợp **Gemini Vision 1.5** và **Digital Twin Protocol**, chúng tôi giúp bạn tạo ra các thiết kế đạt chuẩn CTR > 10% chỉ trong 3 giây.
 
-<p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
-
----
-
-## 💎 Tính Năng Độc Quyền (Core Features)
-
-Chúng tôi không chỉ tạo ảnh, chúng tôi tạo ra **Click**.
-
-|                                                                         🧬 Digital Twin Protocol                                                                         |                                                                              ✍️ Vietnamese Typography                                                                               |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Công nghệ Face-Lock độc quyền**. Upload ảnh của bạn, AI sẽ "nhân bản" khuôn mặt đó vào bất kỳ bối cảnh nào (Siêu anh hùng, Doanh nhân...) mà vẫn giữ nguyên nhận dạng. |                    Khắc phục triệt để lỗi font của các model nước ngoài. Hỗ trợ **Tiếng Việt có dấu chuẩn xác**, font chữ đậm (Bold Sans-serif) tối ưu đọc lướt.                    |
-| <img src="[https://via.placeholder.com/400x200/1e293b/4ade80?text=Face+Swap+Demo](https://via.placeholder.com/400x200/1e293b/4ade80?text=Face+Swap+Demo)" width="100%">  | <img src="[https://via.placeholder.com/400x200/1e293b/f472b6?text=Vietnamese+Font+Demo](https://via.placeholder.com/400x200/1e293b/f472b6?text=Vietnamese+Font+Demo)" width="100%"> |
-
-|                                                                     🧠 Magic Prompt Engine                                                                     |                                                                     🎨 Auto-Layout Logic                                                                     |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Bạn bí từ? Gõ _"Mèo ăn cá"_. AI sẽ viết lại: _"Góc máy thấp cinematic, chú mèo Anh lông ngắn thưởng thức cá hồi, ánh sáng studio rim-light, 8k resolution..."_ | Tự động sắp xếp bố cục theo quy tắc **1/3** và **Tam giác vàng**. Đảm bảo Text không che mặt nhân vật, đối tượng quan trọng luôn ở vùng an toàn (Safe Zone). |
+- ✅ **Input:** Ý tưởng thô sơ (VD: "Review iPhone 15 phong cách Batman").
+- ✅ **Processing:** AI phân tích bố cục, ánh sáng, typography.
+- ✅ **Output:** 4 phương án Thumbnail chất lượng 4K.
 
 <p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
 
 ---
 
-## 🎭 Kho Phong Cách (Style Gallery)
+## 💎 Tính Năng Cốt Lõi
 
-Các prompt kỹ thuật số đã được tinh chỉnh (Fine-tune) để bắt trend YouTube 2024:
+Chúng tôi tập trung vào những gì Creator cần nhất: **Tốc độ** và **Sự chính xác**.
 
-<div align="center">
+| 🧬 Digital Twin (Face-Lock)                                                                                                                               | ✍️ Vietnamese Typography                                                                                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Công nghệ độc quyền.** Upload 1 ảnh selfie, AI sẽ đưa khuôn mặt bạn vào mọi ngữ cảnh (Doanh nhân, Gaming, Vlog) mà không bị biến dạng (Uncanny Valley). | **Tự hào Made in Vietnam.** Model được fine-tune riêng để xử lý các dấu Tiếng Việt phức tạp, font chữ Bold Sans-serif tối ưu cho mắt đọc lướt trên Mobile. |
+| <img src="https://via.placeholder.com/500x250/1e293b/4ade80?text=Face+Swap+Demo" width="100%">                                                            | <img src="https://via.placeholder.com/500x250/1e293b/f472b6?text=Vietnamese+Font+Demo" width="100%">                                                       |
 
-|                                                                           😲 MrBeast Viral                                                                            |                                                                          🎬 3D Cinematic                                                                          |                                                                        🎮 Neon Gaming                                                                         |                                                                       🖍️ Comic Art                                                                        |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="[https://via.placeholder.com/200x120/000000/FFFFFF?text=High+Contrast](https://via.placeholder.com/200x120/000000/FFFFFF?text=High+Contrast)" width="100%"> | <img src="[https://via.placeholder.com/200x120/000000/FFFFFF?text=Pixar+Style](https://via.placeholder.com/200x120/000000/FFFFFF?text=Pixar+Style)" width="100%"> | <img src="[https://via.placeholder.com/200x120/000000/FFFFFF?text=Cyberpunk](https://via.placeholder.com/200x120/000000/FFFFFF?text=Cyberpunk)" width="100%"> | <img src="[https://via.placeholder.com/200x120/000000/FFFFFF?text=Pop+Art](https://via.placeholder.com/200x120/000000/FFFFFF?text=Pop+Art)" width="100%"> |
-|                                                                Độ tương phản cao<br>Biểu cảm phóng đại                                                                |                                                                Ánh sáng mềm mại<br>Style hoạt hình                                                                |                                                                Màu Neon/Led<br>Hiệu ứng Glitch                                                                |                                                        Nét vẽ truyện tranh<br>Hiệu ứng Speedlines                                                         |
-
-</div>
-
-<p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
-
----
-
-## 🛠️ Công Nghệ Sử Dụng (Tech Stack)
-
-Dự án được xây dựng trên nền tảng công nghệ hiện đại nhất, đảm bảo tốc độ và khả năng mở rộng.
-
-### Core & AI
-
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Frontend Framework
-
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Styling & UI
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=blue)
+| 🧠 Magic Prompt Engine                                                                                                                             | 🎨 Smart Layout Grid                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Bí từ? Không sao cả.** Gõ _"Mèo ăn cá"_, AI sẽ viết lại thành prompt chuẩn điện ảnh: _"Cinematic shot, british shorthair cat, rim light, 8k..."_ | Tự động áp dụng **Quy tắc 1/3** và **Tam giác vàng**. Đảm bảo text không bao giờ che mặt nhân vật chính. |
+| <img src="https://via.placeholder.com/500x250/1e293b/60a5fa?text=Prompt+Optimization" width="100%">                                                | <img src="https://via.placeholder.com/500x250/1e293b/fbbf24?text=Layout+Grid+Logic" width="100%">        |
 
 <p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
 
 ---
 
-## ⚡ Cài Đặt & Sử Dụng (Quick Start)
+## 🎨 Style Gallery
 
-Chạy dự án trên máy tính cá nhân của bạn chưa bao giờ dễ dàng hơn thế.
+Kho thư viện prompt được cập nhật theo xu hướng YouTube 2024.
 
-### Yêu cầu tiên quyết
+|                                    😲 MrBeast Viral                                     |                                   🎬 3D Disney/Pixar                                    |                                    🎮 Neon Cyberpunk                                    |
+| :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| <img src="https://via.placeholder.com/250x140/000/fff?text=High+Contrast" width="100%"> | <img src="https://via.placeholder.com/250x140/000/fff?text=Soft+Lighting" width="100%"> | <img src="https://via.placeholder.com/250x140/000/fff?text=Glitch+Effect" width="100%"> |
+|                               Độ bão hòa cao, Biểu cảm lố                               |                             Ánh sáng mềm, Texture chi tiết                              |                               Màu Led, Tương lai, Gaming                                |
 
-- Node.js (v18+)
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+<p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
 
-### Các bước cài đặt
+---
 
-1.  **Clone Repo**
-    ```sh
-    git clone https://github.com/your-username/thumbnail-ai.git
-    ```
-2.  **Cài đặt thư viện**
-    ```sh
-    cd thumbnail-ai
-    npm install
-    ```
-3.  **Cấu hình API**
-    - Tạo file `.env` từ file mẫu: `cp .env.example .env`
-    - Nhập API Key của bạn vào `.env` (Xem hướng dẫn lấy key bên dưới)
-4.  **Khởi động**
-    ```sh
-    npm run dev
+## 🛠️ Tech Stack
+
+Dự án sử dụng kiến trúc Monorepo hiện đại, tối ưu cho khả năng mở rộng (Scalability).
+
+| **Domain**     | **Technologies**                                                                                                                                                                                                                                                                                                   |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core AI**    | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)                                                                                             |
+| **Frontend**   | ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Styling**    | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)                                                                                    |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)                                                                                                            |
+
+<p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
+
+---
+
+## ⚡ Cài Đặt (Quick Start)
+
+````bash
+# 1. Clone Repository
+git clone [https://github.com/your-username/thumbnail-ai.git](https://github.com/your-username/thumbnail-ai.git)
+
+# 2. Di chuyển vào thư mục
+cd thumbnail-ai
+
+# 3. Cài đặt dependencies
+npm install
+
+# 4. Thiết lập biến môi trường
+cp .env.example .env
+# (Đừng quên điền API Key vào file .env nhé!)
+
+# 5. Khởi chạy
+npm run dev
     ```
 
 <p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
@@ -170,7 +154,7 @@ thumbnail-ai/
 ├── .env.example         # Environment variables template
 ├── tailwind.config.js   # Tailwind configuration
 └── README.md            # You are here!
-```
+````
 
 ---
 
