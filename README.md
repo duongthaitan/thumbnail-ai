@@ -2,10 +2,8 @@
 
 <div align="center">
 
-<br />
-<div align="center">
-  <a href="[https://github.com/your-username/thumbnail-ai](https://github.com/your-username/thumbnail-ai)">
-    <img src="[https://via.placeholder.com/150/60a5fa/ffffff?text=AI+STUDIO](https://via.placeholder.com/150/60a5fa/ffffff?text=AI+STUDIO)" alt="Logo" width="100" height="100">
+  <a href="https://github.com/your-username/thumbnail-ai">
+    <img src="https://via.placeholder.com/150/60a5fa/ffffff?text=AI+STUDIO" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">📸 THUMBNAIL AI STUDIO</h1>
@@ -13,37 +11,26 @@
   <p align="center">
     <b>The Next-Gen YouTube Thumbnail Generator powered by Gemini Vision</b>
     <br />
-    <a href="[https://github.com/your-username/thumbnail-ai](https://github.com/your-username/thumbnail-ai)"><strong>Khám phá tài liệu »</strong></a>
+    <br />
+    <a href="https://github.com/your-username/thumbnail-ai"><strong>📚 Khám phá tài liệu »</strong></a>
     <br />
     <br />
     <a href="http://localhost:5173">Xem Demo</a>
     ·
-    <a href="[https://github.com/your-username/thumbnail-ai/issues](https://github.com/your-username/thumbnail-ai/issues)">Báo Lỗi</a>
+    <a href="https://github.com/your-username/thumbnail-ai/issues">Báo Lỗi</a>
     ·
-    <a href="[https://github.com/your-username/thumbnail-ai/issues](https://github.com/your-username/thumbnail-ai/issues)">Yêu Cầu Tính Năng</a>
+    <a href="https://github.com/your-username/thumbnail-ai/issues">Yêu Cầu Tính Năng</a>
   </p>
-</div>
 
-<p align="center">
-  <a href="[https://github.com/your-username/thumbnail-ai/graphs/contributors](https://github.com/your-username/thumbnail-ai/graphs/contributors)">
-    <img src="[https://img.shields.io/github/contributors/your-username/thumbnail-ai?style=for-the-badge&color=blue](https://img.shields.io/github/contributors/your-username/thumbnail-ai?style=for-the-badge&color=blue)" alt="Contributors">
-  </a>
-  <a href="[https://github.com/your-username/thumbnail-ai/network/members](https://github.com/your-username/thumbnail-ai/network/members)">
-    <img src="[https://img.shields.io/github/forks/your-username/thumbnail-ai?style=for-the-badge&color=orange](https://img.shields.io/github/forks/your-username/thumbnail-ai?style=for-the-badge&color=orange)" alt="Forks">
-  </a>
-  <a href="[https://github.com/your-username/thumbnail-ai/stargazers](https://github.com/your-username/thumbnail-ai/stargazers)">
-    <img src="[https://img.shields.io/github/stars/your-username/thumbnail-ai?style=for-the-badge&color=yellow](https://img.shields.io/github/stars/your-username/thumbnail-ai?style=for-the-badge&color=yellow)" alt="Stargazers">
-  </a>
-  <a href="[https://github.com/your-username/thumbnail-ai/issues](https://github.com/your-username/thumbnail-ai/issues)">
-    <img src="[https://img.shields.io/github/issues/your-username/thumbnail-ai?style=for-the-badge&color=red](https://img.shields.io/github/issues/your-username/thumbnail-ai?style=for-the-badge&color=red)" alt="Issues">
-  </a>
-  <a href="[https://github.com/your-username/thumbnail-ai/blob/master/LICENSE](https://github.com/your-username/thumbnail-ai/blob/master/LICENSE)">
-    <img src="[https://img.shields.io/github/license/your-username/thumbnail-ai?style=for-the-badge&color=green](https://img.shields.io/github/license/your-username/thumbnail-ai?style=for-the-badge&color=green)" alt="License">
-  </a>
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&labelColor=1e293b" alt="Version">
+    <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge&labelColor=1e293b" alt="Status">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=1e293b" alt="License">
+    <img src="https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge&labelColor=1e293b" alt="Made with Love">
+  </p>
 
-<br />
-<img src="[https://via.placeholder.com/1200x600/0f172a/60a5fa?text=INSERT+YOUR+DEMO+GIF+HERE](https://via.placeholder.com/1200x600/0f172a/60a5fa?text=INSERT+YOUR+DEMO+GIF+HERE)" alt="Project Screenshot" width="100%">
+  <br />
+  <img src="https://via.placeholder.com/1200x600/0f172a/60a5fa?text=INSERT+YOUR+DEMO+GIF+HERE" alt="Demo Animation" width="100%">
 
 </div>
 
