@@ -416,8 +416,11 @@ export const generateThumbnail = async (request: ThumbnailRequest): Promise<stri
   } catch (error: any) {
     console.warn("Primary model failed, attempting fallback to Flash...", error);
 
-    // Fallback logic for Banana Flash
+    // FIX: Catch 429 and RESOURCE_EXHAUSTED explicitly to trigger fallback
     if (error.status === 'PERMISSION_DENIED' || 
+        error.status === 'RESOURCE_EXHAUSTED' || // Add this
+        error.code === 429 || // Add this
+        error.message?.includes('429') || // Add this
         error.message?.includes('403') || 
         error.message?.includes('not found') || 
         error.status === 403) {
@@ -437,6 +440,12 @@ export const generateThumbnail = async (request: ThumbnailRequest): Promise<stri
 
       } catch (fallbackError: any) {
          console.error("Fallback model also failed:", fallbackError);
+         
+         // Custom friendly error for Quota issues
+         if (fallbackError.message?.includes('429') || fallbackError.status === 'RESOURCE_EXHAUSTED') {
+             throw new Error("Hệ thống đang quá tải (Hết Quota miễn phí). Vui lòng thử lại sau 1 phút.");
+         }
+
          throw new Error(`Lỗi tạo ảnh: ${fallbackError.message || "Không xác định"}`);
       }
     }
