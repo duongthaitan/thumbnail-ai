@@ -38,8 +38,6 @@
 
 ## 🤖 Giới Thiệu
 
-[Image of AI image generation workflow diagram]
-
 > **"Thumbnail không chỉ là ảnh. Nó là lời hứa với người xem."**
 
 **Thumbnail AI Studio** giải quyết bài toán "Cạn ý tưởng" của Creator. Bằng cách kết hợp **Gemini Vision 1.5** và **Digital Twin Protocol**, chúng tôi giúp bạn tạo ra các thiết kế đạt chuẩn CTR > 10% chỉ trong 3 giây.
@@ -89,10 +87,10 @@ Dự án sử dụng kiến trúc Monorepo hiện đại, tối ưu cho khả n�
 
 | **Domain**     | **Technologies**                                                                                                                                                                                                                                                                                                   |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Core AI**    | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)                                                                                             |
-| **Frontend**   | ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Styling**    | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)                                                                                    |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)                                                                                                            |
+| **Core AI**    | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)                                                                                                                                                                                                         |
+| **Frontend**   | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Styling**    | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)                                                                                                                                                                                               |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)                                                                                                                                                                                                                |
 
 <p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
 
@@ -100,9 +98,9 @@ Dự án sử dụng kiến trúc Monorepo hiện đại, tối ưu cho khả n�
 
 ## ⚡ Cài Đặt (Quick Start)
 
-````bash
+```bash
 # 1. Clone Repository
-git clone [https://github.com/your-username/thumbnail-ai.git](https://github.com/your-username/thumbnail-ai.git)
+git clone https://github.com/your-username/thumbnail-ai.git
 
 # 2. Di chuyển vào thư mục
 cd thumbnail-ai
@@ -110,13 +108,11 @@ cd thumbnail-ai
 # 3. Cài đặt dependencies
 npm install
 
-# 4. Thiết lập biến môi trường
-cp .env.example .env
-# (Đừng quên điền API Key vào file .env nhé!)
-
-# 5. Khởi chạy
+# 4. Khởi chạy
 npm run dev
-    ```
+```
+
+> 🚀 Truy cập trình duyệt tại: `http://localhost:5173`
 
 <p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
 
@@ -141,20 +137,17 @@ npm run dev
 
 ```text
 thumbnail-ai/
-├──  public/              # Static assets
+├── public/              # Static assets
 ├── src/
-│   ├── assets/          # Images, Icons
 │   ├── components/      # Reusable UI components
-│   ├── hooks/           # Custom React hooks
 │   ├── services/        # API integrations (Gemini)
-│   ├── types/           # TypeScript definitions
-│   ├── utils/           # Helper functions
+│   ├── types.ts         # TypeScript definitions
+│   ├── constants.ts     # Global constants & translations
 │   ├── App.tsx          # Main Entry point
 │   └── main.tsx
-├── .env.example         # Environment variables template
 ├── tailwind.config.js   # Tailwind configuration
 └── README.md            # You are here!
-````
+```
 
 ---
 
@@ -167,12 +160,6 @@ Mọi đóng góp đều được chào đón! Đây là cách bạn có thể t
 3.  Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
 4.  Push lên Branch (`git push origin feature/AmazingFeature`)
 5.  Mở Pull Request
-
-### Top Contributors
-
-<a href="[https://github.com/your-username/thumbnail-ai/graphs/contributors](https://github.com/your-username/thumbnail-ai/graphs/contributors)">
-  <img src="[https://contrib.rocks/image?repo=your-username/thumbnail-ai](https://contrib.rocks/image?repo=your-username/thumbnail-ai)" alt="contrib.rocks" />
-</a>
 
 <p align="right">(<a href="#readme-top">lên đầu trang</a>)</p>
 
@@ -188,8 +175,6 @@ Mọi đóng góp đều được chào đón! Đây là cách bạn có thể t
 
 **Tandev.foto**
 
-- **Facebook:** [fb.com/your-profile](https://facebook.com/your-profile)
-- **Email:** [email@example.com](mailto:email@example.com)
 - **Project Link:** [github.com/your-username/thumbnail-ai](https://github.com/your-username/thumbnail-ai)
 
 <div align="center">
