@@ -1,69 +1,37 @@
 <a name="readme-top"></a>
 
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Auto%20Fill%20Extension&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Điền%20form%20tự%20động%201%20click%20-%20Tiết%20kiệm%2090%25%20thời%20gian&descAlignY=52&descSize=20)
+<div align="center">
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-v1.0.0-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore)
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F72585,7209B7,3A0CA3&height=300&section=header&text=Thumbnail%20AI%20Studio&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20YouTube%20Thumbnail%20Generator%20powered%20by%20Gemini&descAlignY=55&descSize=20)
+
+[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20Vision-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
 [![License MIT](https://img.shields.io/badge/License-MIT-00D084?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Made in Vietnam](https://img.shields.io/badge/Made%20with%20❤️%20in-Vietnam-FF1744?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/duongthaitan)
+[![Made in Vietnam](https://img.shields.io/badge/Made%20with%20❤️%20in-Vietnam-FF1744?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/your-username)
 
-[![GitHub Stars](https://img.shields.io/github/stars/duongthaitan/Auto-Fill-Extension?style=social&logo=github)](https://github.com/duongthaitan/Auto-Fill-Extension/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/duongthaitan/Auto-Fill-Extension?style=social&logo=github)](https://github.com/duongthaitan/Auto-Fill-Extension/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/duongthaitan/Auto-Fill-Extension?style=social&logo=github)](https://github.com/duongthaitan/Auto-Fill-Extension/issues)
-
-<p align="center">
-  <a href="#-tính-năng"><b>✨ Tính năng</b></a> •
-  <a href="#-cài-đặt"><b>🚀 Cài đặt</b></a> •
-  <a href="#-hướng-dẫn"><b>📖 Hướng dẫn</b></a> •
-  <a href="#-demo"><b>🎥 Demo</b></a> •
-  <a href="#-roadmap"><b>🗺️ Roadmap</b></a>
+<p>
+    <a href="https://github.com/your-username/thumbnail-ai/stargazers">
+        <img src="https://img.shields.io/github/stars/your-username/thumbnail-ai?style=social&logo=github" alt="GitHub Stars">
+    </a>
+    <a href="https://github.com/your-username/thumbnail-ai/network/members">
+        <img src="https://img.shields.io/github/forks/your-username/thumbnail-ai?style=social&logo=github" alt="GitHub Forks">
+    </a>
+    <a href="https://github.com/your-username/thumbnail-ai/issues">
+        <img src="https://img.shields.io/github/issues/your-username/thumbnail-ai?style=social&logo=github" alt="GitHub Issues">
+    </a>
 </p>
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore">
-    <img src="https://img.shields.io/badge/Chrome_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension">
-  </a>
-  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/releases">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&labelColor=1e293b" alt="Version">
-  </a>
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-00D084?style=for-the-badge&labelColor=1e293b&logo=opensourceinitiative&logoColor=white" alt="License">
-  </a>
+  <a href="#-giới-thiệu-introduction">Giới thiệu</a> •
+  <a href="#-tính-năng-độc-quyền-core-features">Tính năng</a> •
+  <a href="#-kho-phong-cách-style-gallery">Style Gallery</a> •
+  <a href="#-công-nghệ-sử-dụng-tech-stack">Tech Stack</a> •
+  <a href="#-cài-đặt--sử-dụng-quick-start">Cài đặt</a> •
+  <a href="#-hướng-dẫn-lấy-api-key">API Key</a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/stargazers">
-    <img src="https://img.shields.io/github/stars/duongthaitan/Auto-Fill-Extension?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/network/members">
-    <img src="https://img.shields.io/github/forks/duongthaitan/Auto-Fill-Extension?style=social" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/issues">
-    <img src="https://img.shields.io/github/issues/duongthaitan/Auto-Fill-Extension?style=social" alt="GitHub Issues">
-  </a>
-</p>
-
-<br />
-
-<a href="#-demo">
-  <img src="https://via.placeholder.com/1000x500/0f172a/60a5fa?text=INSERT+DEMO+GIF+HERE+(Auto+Fill+Action)" alt="Demo Preview" width="100%" style="border-radius: 10px;">
-</a>
-
-<br />
-<br />
-
-> **"Không còn nhập liệu thủ công. Một cú click, xong tất cả."** > <br>
-> Extension thông minh giúp bạn điền form đăng ký, thanh toán, login chỉ trong tích tắc với độ chính xác tuyệt đối. Bảo mật cục bộ, không lưu trữ đám mây.
-
-<br />
-
-<a href="https://chrome.google.com/webstore/detail/your-extension-id">
-  <img src="https://img.shields.io/badge/Download_Extension-Start_Now-FF1744?style=for-the-badge&logo=rocket&logoColor=white" alt="Download Now">
-</a>
 
 </div>
 
-<br />
-<hr />
+---
 
 ## 🤖 Giới Thiệu (Introduction)
 
