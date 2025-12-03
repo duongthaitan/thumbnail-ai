@@ -560,4 +560,21 @@ git push origin feature/amazing-feature
 
 [![Email](https://img.shields.io/badge/📧%20Email-tandev.foto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tandev.foto@gmail.com)
 [![Facebook](https://img.shields.io/badge/📘%20Facebook-Tandev.foto-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tandev.foto)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-@tan
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-@duongthaitan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duongthaitan)
+[![Website](https://img.shields.io/badge/🌐%20Website-tandev.foto-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tandev.foto)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F72585,7209B7,3A0CA3&height=200&section=footer&text=Made%20with%20❤️%20by%20Tandev.foto&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=70)
+
+### ⭐ **Nếu thấy hữu ích, hãy cho project một Star nhé!**
+
+[![Star This Project](https://img.shields.io/github/stars/duongthaitan/thumbnail-ai?style=social&logo=github)](https://github.com/duongthaitan/thumbnail-ai)
+
+**© 2024 Thumbnail AI Studio by Duong Thai Tan. All rights reserved.**
+
+</div>
