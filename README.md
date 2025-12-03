@@ -2,39 +2,62 @@
 
 <div align="center">
 
-  <a href="https://github.com/your-username/thumbnail-ai">
-    <img src="https://via.placeholder.com/150/60a5fa/ffffff?text=AI+STUDIO" alt="Logo" width="120" height="120">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Auto%20Fill%20Extension&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Điền%20form%20tự%20động%201%20click%20-%20Tiết%20kiệm%2090%25%20thời%20gian&descAlignY=55&descSize=22" width="100%" alt="Auto Fill Extension Header">
+
+<p align="center">
+  <a href="#-tính-năng"><b>✨ Tính năng</b></a> •
+  <a href="#-cài-đặt"><b>🚀 Cài đặt</b></a> •
+  <a href="#-hướng-dẫn"><b>📖 Hướng dẫn</b></a> •
+  <a href="#-demo"><b>🎥 Demo</b></a> •
+  <a href="#-roadmap"><b>🗺️ Roadmap</b></a>
+</p>
+
+<p align="center">
+  <a href="https://chrome.google.com/webstore">
+    <img src="https://img.shields.io/badge/Chrome_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension">
   </a>
-
-  <h1 align="center">📸 THUMBNAIL AI STUDIO</h1>
-
-  <p align="center">
-    <b>The Next-Gen YouTube Thumbnail Generator powered by Gemini Vision</b>
-    <br />
-    <br />
-    <a href="https://github.com/your-username/thumbnail-ai"><strong>📚 Khám phá tài liệu »</strong></a>
-    <br />
-    <br />
-    <a href="http://localhost:5173">Xem Demo</a>
-    ·
-    <a href="https://github.com/your-username/thumbnail-ai/issues">Báo Lỗi</a>
-    ·
-    <a href="https://github.com/your-username/thumbnail-ai/issues">Yêu Cầu Tính Năng</a>
-  </p>
-
-  <p align="center">
+  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/releases">
     <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&labelColor=1e293b" alt="Version">
-    <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge&labelColor=1e293b" alt="Status">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=1e293b" alt="License">
-    <img src="https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge&labelColor=1e293b" alt="Made with Love">
-  </p>
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-00D084?style=for-the-badge&labelColor=1e293b&logo=opensourceinitiative&logoColor=white" alt="License">
+  </a>
+</p>
 
-  <br />
-  <img src="https://via.placeholder.com/1200x600/0f172a/60a5fa?text=INSERT+YOUR+DEMO+GIF+HERE" alt="Demo Animation" width="100%">
+<p align="center">
+  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/stargazers">
+    <img src="https://img.shields.io/github/stars/duongthaitan/Auto-Fill-Extension?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/network/members">
+    <img src="https://img.shields.io/github/forks/duongthaitan/Auto-Fill-Extension?style=social" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/duongthaitan/Auto-Fill-Extension/issues">
+    <img src="https://img.shields.io/github/issues/duongthaitan/Auto-Fill-Extension?style=social" alt="GitHub Issues">
+  </a>
+</p>
+
+<br />
+
+<a href="#-demo">
+  <img src="https://via.placeholder.com/1000x500/0f172a/60a5fa?text=INSERT+DEMO+GIF+HERE+(Auto+Fill+Action)" alt="Demo Preview" width="100%" style="border-radius: 10px;">
+</a>
+
+<br />
+<br />
+
+> **"Không còn nhập liệu thủ công. Một cú click, xong tất cả."** > <br>
+> Extension thông minh giúp bạn điền form đăng ký, thanh toán, login chỉ trong tích tắc với độ chính xác tuyệt đối. Bảo mật cục bộ, không lưu trữ đám mây.
+
+<br />
+
+<a href="https://chrome.google.com/webstore/detail/your-extension-id">
+  <img src="https://img.shields.io/badge/Download_Extension-Start_Now-FF1744?style=for-the-badge&logo=rocket&logoColor=white" alt="Download Now">
+</a>
 
 </div>
 
 <br />
+<hr />
 
 ## 🤖 Giới Thiệu (Introduction)
 
